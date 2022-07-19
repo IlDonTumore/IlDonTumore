@@ -29,8 +29,11 @@ PC Specs:
 <br>
 
 GPU: RTX3060 <br>
+  
 CPU: Intel Core i7 8700 <br>
-RAM: x2 Corsair Vengeance DDR4 16GB
+  
+RAM: x2 Corsair Vengeance DDR4 16GB <br>
+  
 Hard Drive: Crucial SSD</details>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
