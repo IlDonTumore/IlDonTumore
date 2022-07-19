@@ -20,7 +20,7 @@ Socials:
   
   [Discord](https://discord.com/channels/714428960213041164/714445864059273257) 
   
-  GitHub... bro, you're literally here </details>
+  [GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ) </details>
   
 <details>
 <summary>
