@@ -1,5 +1,15 @@
 # Hello There, I'm Manuel!
 > I'm Manuel, a 15 year old italian boy who likes science and techonolgy, [placeholder]
 
-### What are my plans: 
-blablablablabla [test](www.youtube.it)
+### About me:
+
+
+<details>
+<summary>
+PC Specs
+</summary> 
+<br>
+
+GPU: RTX3060
+CPU Intel i7
+pene
