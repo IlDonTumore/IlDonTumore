@@ -12,4 +12,4 @@ PC Specs
 
 GPU: RTX3060 <br>
 CPU Intel i7 <br>
-pene
+pene </details>
