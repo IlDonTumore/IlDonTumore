@@ -31,7 +31,7 @@ RAM: x2 Corsair Vengeance DDR4 16GB
 Hard Drive: Crucial SSD</details>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#[FOR MORE INFO ON OUR PROJECTS](https://github.com/Nuclear-Company)
+[#FOR MORE INFO ON OUR PROJECTS](https://github.com/Nuclear-Company)
 
 
 
