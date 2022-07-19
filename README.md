@@ -15,8 +15,10 @@ If you're willing to contact me for any reason, being it a job offer or simple h
 Socials:
 </summary> 
 <br>
-  [Reddit](https://www.reddit.com/user/IlDonCetriolo) <br>
-  [Discord](https://discord.com/channels/714428960213041164/714445864059273257) <br>
+  [Reddit](https://www.reddit.com/user/IlDonCetriolo)
+  
+  [Discord](https://discord.com/channels/714428960213041164/714445864059273257) 
+  
   GitHub... bro, you're literally here </details>
   
 <details>
