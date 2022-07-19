@@ -10,6 +10,6 @@ PC Specs
 </summary> 
 <br>
 
-GPU: RTX3060
-CPU Intel i7
+GPU: RTX3060 <br>
+CPU Intel i7 <br>
 pene
